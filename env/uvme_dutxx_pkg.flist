@@ -1,0 +1,8 @@
+
+// Directories
++incdir+${DV_UVME_PATH}
++incdir+${DV_UVME_PATH}/vseq
++incdir+${DV_UVME_PATH}/cov
+
+// Files
+${DV_UVME_PATH}/uvme_dutxx_pkg.sv

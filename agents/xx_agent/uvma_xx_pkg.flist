@@ -1,0 +1,8 @@
+
+// Directories
++incdir+${DV_UVMA_XX_PATH}
++incdir+${DV_UVMA_XX_PATH}/seq
++incdir+${DV_UVMA_XX_PATH}/cov
+
+// Files
+${DV_UVMA_XX_PATH}/uvma_xx_pkg.sv
